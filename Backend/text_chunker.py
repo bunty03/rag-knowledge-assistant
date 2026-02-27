@@ -1,0 +1,1 @@
+print("text_chunker.py disabled — chunks already created.")

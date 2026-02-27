@@ -1,0 +1,1 @@
+print("pdf_loader.py disabled — PDF already processed.");
